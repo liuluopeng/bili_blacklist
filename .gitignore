@@ -1,0 +1,6 @@
+/target
+.env
+result.csv
+Cargo.lock
+.DS_Store
+.vscode
